@@ -19,7 +19,7 @@ Goal of this project is to automate your instagram.  I’ve noticed a growing fr
 * `Auto-story-viewer`
 ## Installation
 * Clone the repository `https://github.com/Chandresh24Singh/instagram_xpbot`.
-* Install `Requirments.txt`.
+* Install `pip3 install -r requirements.txt`.
 * Download `web-driver` for your respective browser and os. I'm here using `chrome-web-driver` for `windows`.
 * Locate the directory for your `web-driver`.
 * Change directory location of `csv files` and `download media`.
